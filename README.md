@@ -1,4 +1,4 @@
-👋 Hello, I'm Bollineni Bharath
+**👋 Hello, I'm Bollineni Bharath**
 
 Welcome to my GitHub!
 
