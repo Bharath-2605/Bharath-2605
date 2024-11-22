@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @Bharath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, I'm Bollineni Bharath
+Welcome to my GitHub!
+I'm a dedicated developer with a strong passion for creating innovative solutions and exploring cutting-edge technologies. My expertise lies in software development, data science, and full-stack development.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🛠️ Technologies & Tools
+Programming Languages: C, Python, Java, HTML, css
+Frameworks & Libraries: django, react, OpenCV , numpy, matplotlib
+Databases: MySQL, MongoDB
+Tools & Platforms: Git, Google cloud, heroku, jupyter, VS Code
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📚 Current Focus
+I’m currently:
 
-<!---
-Bharath-2605/Bharath-2605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Enhancing my skills in Data Analytics, Machine Learning.
+Working on projects related to Data Analytics, AI, web development
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🌟 Featured Projects
+🔗 Project Name 1
+Description: 
+Technologies Used: 
+🔗 Project Name 2
+Description:
+Technologies Used:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧑‍💻 Work & Achievements
+
+🌱 What I’m Learning
+Diving deeper into 
+Exploring 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/bharathbollineni/
+Portfolio: https://bharath-2605.github.io/My_Portfolio/
+Email: bharathbollieneni.2605@gmail.com
+Let’s collaborate and build something amazing together!
