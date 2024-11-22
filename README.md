@@ -1,8 +1,9 @@
-******👋 Hello, I'm Bollineni Bharath**************
+👋 Hello, I'm Bollineni Bharath
 
 Welcome to my GitHub!
 
 I'm a dedicated developer with a strong passion for creating innovative solutions and exploring cutting-edge technologies. My expertise lies in software development, data science, and full-stack development.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Technologies & Tools
 
@@ -13,6 +14,7 @@ Frameworks & Libraries: django, react, OpenCV , numpy, matplotlib
 Databases: MySQL, MongoDB
 
 Tools & Platforms: Git, Google cloud, heroku, jupyter, VS Code
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Current Focus
 
@@ -21,6 +23,7 @@ I’m currently:
 Enhancing my skills in Data Analytics, Machine Learning.
 
 Working on projects related to Data Analytics, AI, web development
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌟 Featured Projects
 
@@ -35,6 +38,7 @@ Technologies Used:
 Description:
 
 Technologies Used:
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧑‍💻 Work & Achievements
 
@@ -43,6 +47,7 @@ Technologies Used:
 Diving deeper into 
 
 Exploring 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 Connect with Me
 
