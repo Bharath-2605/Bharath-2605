@@ -53,8 +53,6 @@ Exploring
 
 LinkedIn: https://www.linkedin.com/in/bharathbollineni/
 
-Portfolio: https://bharath-2605.github.io/My_Portfolio/
-
 Email: bharathbollieneni.2605@gmail.com
 
 Let’s collaborate and build something amazing together!
