@@ -1,5 +1,5 @@
 # Hi 👋  
-I'm Bharath, a passionate developer focused on building clean, efficient, and scalable software. I love solving problems with code and enjoy working at the intersection of data analytics and software engineering.
+I'm Bollineni Bharath, a passionate developer focused on building clean, efficient, and scalable software. I love solving problems with code and enjoy working at the intersection of data analytics and software engineering.
 
 ## ✍️ Languages  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
