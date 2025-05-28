@@ -8,8 +8,12 @@ I'm Bollineni Bharath, a passionate developer focused on building clean, efficie
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-2605&layout=compact&theme=radical)
+## ⚒️ Areas of Work  
+- 📊 Data Analytics Projects  
+- 🤖 Machine Learning Models  
+- 🌐 Full-stack Web Applications  
+- 🧠 AI & Automation Tools  
+- 📈 Dashboard & Visualization Systems  
 
 ## 🛠 Tech Stack and Tools
 
@@ -20,5 +24,3 @@ I'm Bollineni Bharath, a passionate developer focused on building clean, efficie
 | DevOps    | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 | IDE       | ![WebStorm](https://img.shields.io/badge/-WebStorm-000?logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
 | Other     | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 😋 Gitmoji |
-
-
