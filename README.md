@@ -22,5 +22,5 @@ I'm Bharath, a passionate developer focused on building clean, efficient, and sc
 | Other     | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 😋 Gitmoji |
 
 ## 💻	 GitHub Stats  
-[![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-2605&show_icons=true&theme=radical&hide_title=true)](https://github.com/Bharath-2605/github-readme-stats)
+[![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-2605&show_icons=true&theme=radical&hide_title=true)]
 
