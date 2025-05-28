@@ -9,7 +9,7 @@ I'm Bharath, a passionate developer focused on building clean, efficient, and sc
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 Most Used Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-2605&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-2605&layout=compact&theme=radical)
 
 ## 🛠 Tech Stack and Tools
 
